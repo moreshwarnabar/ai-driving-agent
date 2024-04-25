@@ -1,0 +1,2 @@
+# Provide a positive integer specifying the number of features defined for the learning agent.
+num_features=11
